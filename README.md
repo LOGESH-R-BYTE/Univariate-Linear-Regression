@@ -22,7 +22,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 
 ```
-## Output
+## Output VG
 </br>
 </br>
 </br>
